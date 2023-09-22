@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACT6_Alvaro_Romero</string>
+    <string name="player_dice">Dados del jugador</string>
+    <string name="machine_dice">Dados de la máquina</string>
+    <string name="throw_dice">Lanzar dado</string>
+    <string name="player_points">Puntos del jugador:</string>
+    <string name="machine_points">Puntos de la máquina:</string>
+    <string name="player_won">Ganó el jugador</string>
+    <string name="machine_won">Ganó la máquina</string>
+    <string name="play_again">Volver a jugar</string>
+    <string name="draw">Empate</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ACT6_Alvaro_Romero</string>
+    <string name="player_dice">Player\'s dice</string>
+    <string name="machine_dice">Machine\'s dice</string>
+    <string name="throw_dice">Throw dice</string>
+    <string name="player_points">Player\'s points:</string>
+    <string name="machine_points">Machine\'s points:</string>
+    <string name="player_won">Player won</string>
+    <string name="machine_won">Machine won</string>
+    <string name="play_again">Play again</string>
+    <string name="draw">Draw</string>
+</resources>
